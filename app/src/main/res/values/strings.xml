@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kashem Voice Access</string>
+    <string name="service_desc">Voice command service for hands-free control</string>
+</resources>
